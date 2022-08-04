@@ -3,7 +3,7 @@
 ## Week 1:
 
 ### What is Scratch?
-
+Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
 ### What is visual programming?
 
 ### What are some programming principles that you have discovered?
